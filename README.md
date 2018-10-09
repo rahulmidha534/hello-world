@@ -1,2 +1,2 @@
 # hello-world
-This shows how to create a HelloWorld program in Java 
+This shows how to create a Hello World program in Java 
